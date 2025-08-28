@@ -7,7 +7,7 @@ Designed to help teams visualize workflows, track progress, and stay productive.
 
 ## Live Demo
 
-[ View Deployed App]()
+[ View Deployed App](https://drag-board.netlify.app/)
 
 ---
 
@@ -40,7 +40,7 @@ I added my own styling, layout tweaks, and modular enhancements to make it portf
 ## Folder Structure
 
 ```
-KANBAN_BOARD/
+KANBAN_BOARD
 ├── index.html
 ├── style.css
 └── script.js
@@ -49,6 +49,6 @@ KANBAN_BOARD/
 
 
 # Clone the repo
-git clone https://github.com/khushboo-saini/kanban-board
+git clone https://github.com/khushboo-sainii/Kanban-Board
 
 # Open index.html in your browser
